@@ -1,2 +1,4 @@
 # dropetag
 My first website, created from scratch.
+
+This website is a one-stop destination for fashion enthusiasts to discover and shop from 150 of the latest and most popular clothing brands. The website features a wide range of brands from high-end luxury labels to more affordable streetwear brands. The website also provides a daily updated list of discounts and offers from each brand, so users can save money on their purchases. The website makes money by including affiliate links to the brands' websites, which means that when a user clicks on one of these links and makes a purchase, the website earns a commission. This allows the website to earn money while also providing its users with a convenient and easy way to discover and shop for their favorite clothing brands at discounted prices.
